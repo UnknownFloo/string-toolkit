@@ -1,5 +1,7 @@
 const toSnakeCase = require("./toSnakeCase");
+const toKebabCase = require("./toKebabCase");
 
 module.exports = {
-  toSnakeCase
+  toSnakeCase,
+  toKebabCase
 };
