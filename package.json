@@ -1,5 +1,5 @@
 {
-  "name": "string-toolkit",
+  "name": "@unknownflo/string-toolkit",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for string manipulation.",
   "keywords": [
