@@ -1,0 +1,19 @@
+{
+  "name": "string-toolkit",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for string manipulation.",
+  "keywords": [
+    "[\"string\"",
+    "\"utility\"",
+    "\"snake-case\"",
+    "\"kebab-case\"",
+    "\"javascript\"]"
+  ],
+  "license": "MIT",
+  "author": "unknownflo",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
